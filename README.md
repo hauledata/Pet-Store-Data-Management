@@ -52,7 +52,6 @@
     <h3>Prerequisites</h3>
     <ul>
         <li>SQL Server or Azure SQL Database</li>
-        <li>Azure Data Studio or SQL Server Management Studio (SSMS)</li>
     </ul>
     <h3>Installation</h3>
     <ol>
